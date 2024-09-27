@@ -3,6 +3,6 @@ qiskit_algorithms
 matplotlib
 scikit-learn
 mlxtend
-
 qiskit_machine_learning
 pylatexenc
+notebook
