@@ -6,3 +6,4 @@ mlxtend
 qiskit_machine_learning
 pylatexenc
 notebook
+qiskit-utils
